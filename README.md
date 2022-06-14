@@ -1,4 +1,4 @@
-# vuetify-axios
+# vuetify-project
 
 ## Project setup
 ```
